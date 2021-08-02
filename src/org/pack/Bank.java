@@ -8,9 +8,17 @@ public abstract  class Bank implements Rbi {
 		// TODO Auto-generated method stub
 System.out.println("Bank interest is 7%");
 	}
+
 public void ntfs() {
 	System.out.println("Bank interest is 7%");
 }
+	public void imps() {
+		System.out.println("Bank interest is 7%");
+}
+}
+
+
 	}
+
 
 
